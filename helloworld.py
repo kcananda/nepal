@@ -1,4 +1,4 @@
 #this is 1st progrm in using git
 
-def 1stprogram():
+def programmemmeee():
 	return "Hello program"
