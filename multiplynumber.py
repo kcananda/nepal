@@ -5,7 +5,6 @@ try:
 	a=float(aa)
 	bb = raw_input("enter the 2nd number")
 	b=float(bb)
-	git
 	print a*b
 	print "writing this one for the revert of the commit"
 
